@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ObSq7hwwnAlKCBBslY66pTCMxBYawgoSlvq+OcA5hfFUqFsflDA4z95XD0jbFy23QOjOgl9wuOb+JtKTnA908w==",
+  "dgSpecHash": "fXcnmnetrKctR4WUqmobw+ItFEHHQohLvgl1ubJqbtP5vOXOWtCi2HmUhYKDcNu0xLSwGfYUQc7KLwdwD0mgYQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\harri\\source\\repos\\ShoppingList\\ShoppingList.csproj",
+  "projectFilePath": "C:\\Users\\harri\\git\\ShoppingList\\ShoppingList.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
