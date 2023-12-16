@@ -1,0 +1,17 @@
+C:\Users\harri\source\repos\ShoppingList\bin\Debug\net8.0-windows\ShoppingList.exe
+C:\Users\harri\source\repos\ShoppingList\bin\Debug\net8.0-windows\ShoppingList.deps.json
+C:\Users\harri\source\repos\ShoppingList\bin\Debug\net8.0-windows\ShoppingList.runtimeconfig.json
+C:\Users\harri\source\repos\ShoppingList\bin\Debug\net8.0-windows\ShoppingList.dll
+C:\Users\harri\source\repos\ShoppingList\bin\Debug\net8.0-windows\ShoppingList.pdb
+C:\Users\harri\source\repos\ShoppingList\obj\Debug\net8.0-windows\ShoppingList.Form1.resources
+C:\Users\harri\source\repos\ShoppingList\obj\Debug\net8.0-windows\ShoppingList.csproj.GenerateResource.cache
+C:\Users\harri\source\repos\ShoppingList\obj\Debug\net8.0-windows\ShoppingList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harri\source\repos\ShoppingList\obj\Debug\net8.0-windows\ShoppingList.AssemblyInfoInputs.cache
+C:\Users\harri\source\repos\ShoppingList\obj\Debug\net8.0-windows\ShoppingList.AssemblyInfo.cs
+C:\Users\harri\source\repos\ShoppingList\obj\Debug\net8.0-windows\ShoppingList.csproj.CoreCompileInputs.cache
+C:\Users\harri\source\repos\ShoppingList\obj\Debug\net8.0-windows\ShoppingList.dll
+C:\Users\harri\source\repos\ShoppingList\obj\Debug\net8.0-windows\refint\ShoppingList.dll
+C:\Users\harri\source\repos\ShoppingList\obj\Debug\net8.0-windows\ShoppingList.pdb
+C:\Users\harri\source\repos\ShoppingList\obj\Debug\net8.0-windows\ShoppingList.genruntimeconfig.cache
+C:\Users\harri\source\repos\ShoppingList\obj\Debug\net8.0-windows\ref\ShoppingList.dll
+C:\Users\harri\source\repos\ShoppingList\obj\Debug\net8.0-windows\ShoppingList.Program.resources
